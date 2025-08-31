@@ -9,5 +9,6 @@ Character recognition by OCR.
 Return information from the database (json).
 
 ## Example
-Hidden for privacy
+Characters hiden for privacy reasons.
+
 <img width="738" height="649" alt="imagen" src="https://github.com/user-attachments/assets/22221ed1-c1f3-40f8-82ea-2a2ad6d82f02" />
